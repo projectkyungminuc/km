@@ -1,0 +1,659 @@
+@charset "UTF-8";header {
+    background-color:#fff !important
+}
+
+header a {
+    color:#333 !important
+}
+
+header .subtitle small {
+    color: #333 !important
+}
+
+header hgroup {
+    padding-bottom:20px !important
+}
+
+header #left_nav #to_home span {
+    color: #000 !important;
+    font-weight: bold !important
+}
+
+header #right_nav span.title {
+    color:#666 !important
+}
+
+header #right_nav .title {
+    border: none !important
+}
+
+#whole_wrapper div#body div#cols > div.wrapper {
+    border-left: none !important;
+    border-right: none !important
+}
+
+#breadcrumb {
+    border-top: 1px solid #eee !important;
+    border-bottom: 1px solid #eee !important;
+    background-color: #f8f8f8 !important
+}
+
+#cols {
+    background-image:none !important
+}
+
+body.module {
+    background-color: #f8f8f8 !important
+}
+
+body.module header {
+    background-color: #f8f8f8 !important;
+    padding-top: 4em !important
+}
+
+body.module header hgroup {
+    background-color: #fff !important;
+    padding-top: 20px !important
+}
+
+#main_menu {
+    background-color:#333 !important
+}
+
+#main_menu > .wrapper > ul.sub_nav {
+    padding: .6em !important
+}
+
+#main_menu > div.wrapper > ul > li > div.label a {
+    color:#bbb !important
+}
+
+#main_menu > div.wrapper > ul > li > div.label a:hover {
+    color: #fff !important
+}
+
+#whole_wrapper > .head nav#main_menu > div.wrapper > ul li.selected > div.label a {
+    color: #fff !important
+}
+
+aside #topic_list_index .course_cover, aside #topic_list_index .module_cover {
+    background-color: #fff !important;
+    font-weight: bold !important
+}
+
+aside #topic_list_index .course_cover a, aside #topic_list_index .module_cover a {
+    color: #999 !important;
+    padding: 10px 14px !important;
+    border-bottom: none !important
+}
+
+aside #topic_list_index .course_cover a:hover, aside #topic_list_index .module_cover a:hover {
+    color: #000 !important;
+    background-color: #f6f6f6 !important
+}
+
+aside #topic_list_index .course_cover.selected a, aside #topic_list_index .module_cover.selected a {
+    background-color: #f6f6f6 !important;
+    color: #333 !important
+}
+
+aside #topic_list_index h2 {
+    font-size: .7em !important;
+    color: #bbb !important;
+    font-weight: normal !important
+}
+
+aside #topic_list_index nav a {
+    background-color: #fff !important;
+    color: #999 !important;
+    padding: 10px 14px !important
+}
+
+aside #topic_list_index nav a:hover {
+    background-color: #f6f6f6 !important;
+    color: #000 !important
+}
+
+aside #topic_list_index nav a.selected {
+    background-color: #f6f6f6 !important;
+    color: #000 !important
+}
+
+div.controllers {
+    height: auto !important;
+    border-bottom: none !important;
+    line-height: normal !important
+}
+
+div.controllers .wrapper {
+    height:auto !important
+}
+
+div.controllers .wrapper #left_ctrs {
+    height: auto !important;
+    line-height: normal !important;
+    background-image: none !important
+}
+
+div.controllers .wrapper #right_ctrs {
+    height: auto !important;
+    line-height: normal !important
+}
+
+div.controllers .wrapper #right_ctrs a {
+    background-image:none !important
+}
+
+div.controllers .wrapper #left_ctrs .btn#add {
+    background-image: none !important;
+    line-height: normal !important
+}
+
+div.controllers a.btn {
+    width: auto !important;
+    height: auto !important;
+    line-height: normal !important;
+    border: 1px solid #eee !important;
+    border-radius: 16px !important;
+    margin: 10px 2px !important;
+    padding: 8px 15px !important;
+    font-size: .9em !important;
+    background-image: none !important
+}
+
+div.controllers a.btn:hover {
+    background-color: #fff !important;
+    border-color: #999 !important;
+    color: #333 !important
+}
+
+.form_wrapper div.comment_form_footer button {
+    background-color: #fff !important;
+    color: #666 !important;
+    width: auto !important;
+    height: auto !important;
+    line-height: normal !important;
+    border: 1px solid #eee !important;
+    border-radius: 16px !important;
+    margin: 10px 2px !important;
+    padding: 8px 15px !important;
+    font-size: .9em !important
+}
+
+.form_wrapper div.comment_form_footer button:hover {
+    background-color: #fff !important;
+    border-color: #999 !important;
+    color: #333 !important
+}
+
+.form_wrapper div.comment_form_footer button.btn_close {
+    border: none !important;
+    height: 10px !important;
+    width: 10px !important;
+    background-color: inherit !important;
+    border-radius: 0 !important;
+    top: 35px !important
+}
+
+.entry-area #social_group {
+    background-color: #fff !important;
+    margin-bottom: 30px !important
+}
+
+.entry-area #social_group .marking {
+    background-color: #fff !important;
+    color: #999 !important;
+    width: auto !important;
+    height: auto !important;
+    line-height: normal !important;
+    border: 1px solid #eee !important;
+    border-radius: 16px !important;
+    margin: 10px 2px !important;
+    padding: 8px 15px !important;
+    font-size: .9em !important
+}
+
+.entry-area #social_group .marking:hover {
+    background-color: #fff !important;
+    border-color: #999 !important;
+    color: #333 !important
+}
+
+.entry-area #social_group #readit .marking {
+    background-image: none !important;
+    border: 1px solid #666 !important;
+    background-color: #666 !important;
+    color: #eee !important;
+    font-weight: bold !important
+}
+
+.entry-area #social_group #readit .marking:hover {
+    color: #fff !important;
+    background-color: #333 !important
+}
+
+.entry-area #social_group #readit .marking .action {
+    font-weight: normal !important;
+    color: #ccc !important
+}
+
+.entry-area #social_group #readit .marking:hover .action {
+    color:#fff !important
+}
+
+.entry-area #topic_navigator {
+    margin-right: 10px !important
+}
+
+.entry-area #topic_navigator .prev a {
+    padding: 8px 15px 8px 20px !important;
+    background-position-x: 9px !important
+}
+
+.entry-area #topic_navigator .next a {
+    padding: 8px 20px 8px 15px !important;
+    background-position-x: 42px !important
+}
+
+.entry-area #topic_navigator span {
+    background-color: #fff !important;
+    color: #ccc !important;
+    width: auto !important;
+    height: auto !important;
+    line-height: normal !important;
+    border: 1px solid #eee !important;
+    border-radius: 16px !important;
+    margin: 10px 2px !important;
+    padding: 8px 15px !important;
+    font-size: .9em !important
+}
+
+.entry-area #topic_navigator .prev span {
+    padding: 8px 15px 8px 20px !important;
+    background-position-x: 9px !important
+}
+
+.entry-area #topic_navigator .next span {
+    padding: 8px 20px 8px 15px !important;
+    background-position-x: 42px !important
+}
+
+.entry-area #comment {
+    border-top: 1px solid #f3f3f3 !important;
+    background-color: #fff !important;
+    padding: 0 !important
+}
+
+.entry-area #comment #comment_notifier {
+    background-image: none !important;
+    font-size: 1em !important;
+    color: #aaa !important;
+    margin-bottom: 0 !important
+}
+
+.entry-area #comment #comment_notifier span.hidden {
+    display: block !important;
+    float: left !important;
+    margin-right: 5px !important;
+    color: #000 !important;
+    font-weight: bold !important;
+    font-size: .9em !important
+}
+
+.entry-area #comment form {
+    border-bottom: none !important;
+    padding-top: 20px !important
+}
+
+.entry-area #comment form .profile_image {
+    top:20px !important
+}
+
+.entry-area #comment #comment_list li {
+    padding: 25px 0 !important
+}
+
+.entry-area #comment #comment_list li[data-is-question="yes"] {
+    background-color: #f2f2f2 !important
+}
+
+.entry-area #comment #comment_list li:hover {
+    background-color:#fbfbfb !important
+}
+
+.entry-area #comment #comment_list li .name.time strong {
+    font-size: 1.1em !important;
+    font-family: sans-serif !important;
+    font-weight: normal !important
+}
+
+.entry-area #comment #comment_list li .name.time time {
+    color:#bbb !important
+}
+
+.entry-area #comment #comment_list li .comment_content {
+    color: #999 !important
+}
+
+.entry-area #comment #comment_list li li {
+    padding:15px 0 !important
+}
+
+.entry-area #comment a.icon {
+    border: 1px solid #ddd !important;
+    border-radius: 10px !important;
+    font-size: .8em !important;
+    padding: 0 5px !important;
+    color: #ccc !important
+}
+
+.entry-area #comment a.icon:hover {
+    background-color: #fbfbfb !important;
+    border-color: #999 !important;
+    color: #666 !important
+}
+
+.entry-area #comment a.icon .ico {
+    display:none !important
+}
+
+.entry-area #comment .profile_image img {
+    border-radius: 50% !important
+}
+
+.entry-area #comment .profile_image.small {
+    top:17px !important
+}
+
+.entry-area article {
+    padding-top: 70px !important
+}
+
+.entry-area article hgroup {
+    border-bottom: 1px solid #eee !important;
+    clear: right !important;
+    padding-bottom: 2em !important
+}
+
+.entry-area article h2 {
+    border-bottom:none !important
+}
+
+.btn.btn_submit {
+    background-color: #fff !important;
+    border: 1px solid #eee !important;
+    border-radius: 20px !important;
+    color: #999 !important;
+    font-weight: normal !important
+}
+
+.btn.btn_submit:hover {
+    border: 1px solid #999 !important;
+    color:#333 !important
+}
+
+header #btn_create_module {
+    margin-top: 15px !important;
+    margin-right: 27px !important
+}
+
+header #btn_create_module a {
+    background-image: url("../../img/desktop/icon_module.png") !important;
+    background-repeat: no-repeat !important;
+    background-color: #fff !important;
+    border: 1px solid #999 !important;
+    border-radius: 50% !important;
+    padding: 1px !important;
+    text-indent: -100px !important
+}
+
+header #btn_create_module a:hover {
+    background-image: url("../../img/desktop/icon_module_hover.png") !important;
+    background-repeat: no-repeat !important;
+    background-color: #fff !important;
+    border: 1px solid #666 !important
+}
+
+header #btn_create_module #new_module_layer div.pin {
+    left:149px !important
+}
+
+header #notify_count {
+    margin-top: 15px !important;
+    margin-right: 13px !important
+}
+
+header #notify_count a.title {
+    background-image: url("../../img/desktop/icon_notify.png") !important;
+    background-position: 0 0 !important;
+    color: #999 !important;
+    padding-left: 18px !important;
+    font-size: 1em !important;
+    height: 18px !important
+}
+
+header #notify_count a.title:hover {
+    background-image: url("../../img/desktop/icon_notify_hover.png") !important;
+    color: #333 !important
+}
+
+
+#notifier_layer {
+    width: 320px !important
+}
+
+#notifier_layer div.pin {
+    left:197px !important
+}
+
+#notifier_layer header {
+    color: #ddd !important
+}
+
+#notifier_layer .body img.user_pict {
+    border-radius:50% !important
+}
+
+#notifier_layer .body li {
+    padding: 12px !important;
+    border-bottom: #f3f3f3 !important
+}
+
+#notifier_layer .body li:hover {
+    background-color:#f9f9f9 !important
+}
+
+#notifier_layer .body p {
+    color: #999 !important;
+    font-size: 1em !important;
+    line-height: normal !important
+}
+
+#notifier_layer .body .username, #notifier_layer .body a, #notifier_layer .body strong {
+    font-weight: normal !important
+}
+
+#notifier_layer a.more_notifier {
+    background-color: #fff !important;
+    border: none !important;
+    padding-top: 30px !important
+}
+
+header #course_allview {
+    margin-top:17px !important
+}
+
+header #course_allview a {
+    background-image: url("../../img/desktop/icon_allview.png") !important
+}
+
+header #course_allview a:hover {
+    background-image: url("../../img/desktop/icon_allview_hover.png") !important
+}
+
+#all_menus {
+    background-color:#f8f8f8 !important
+}
+
+#all_menus div.pin {
+    left: 259px !important
+}
+
+body#homepage hgroup h2 {
+    font-size:1.8em !important
+}
+
+body#homepage section .gate .cover {
+    display: none !important
+}
+
+body#homepage section .gate .btn_create_model {
+    border-radius: 20px !important;
+    background-color: #fff !important;
+    border: 1px solid #eee !important;
+    color: #999 !important
+}
+
+body#homepage section .box.gate .btn_create_model:hover {
+    border: 1px solid #999 !important;
+    color: #333 !important
+}
+
+body#homepage section .box:hover {
+    box-shadow: 0 0 5px rgb(204 204 4.08%) !important
+}
+
+body#homepage section .card .name a {
+    color: #666 !important;
+    font-size: .9em !important
+}
+
+body#homepage section .card .name a:hover {
+    color:#000 !important
+}
+
+body#homepage section.module .box {
+    border-radius: 6px !important;
+    background-color: #fff !important
+}
+
+body#homepage section.module .name_card {
+    background-color:#f9f9f9 !important
+}
+
+body#homepage section.module .name_card img {
+    border-radius: 50% !important
+}
+
+body#homepage section.course .listwrap {
+    padding:10px !important
+}
+
+body#homepage section.course .box {
+    margin: 0 -1px -1px 0 !important;
+    padding: 10px !important;
+    background-color: #fff !important;
+    border: 1px solid #ddd !important;
+    width: 195px !important
+}
+
+body#homepage section.course .box .name_card {
+    padding: 15px 0 !important;
+    background-color: #f9f9f9 !important
+}
+
+body#homepage section.course .box .name_card img {
+    margin-left: 10px !important;
+    border-radius: 50% !important
+}
+
+body#homepage form.search {
+    background-color:#f3f3f3 !important
+}
+
+body#homepage form.search input {
+    width: 460px !important;
+    border: 1px solid #ccc !important
+}
+
+body#homepage form.search .btn_search {
+    border-radius: 3px !important;
+    border: none !important;
+    background-color: #ccc !important;
+    color: #fff !important;
+    margin-left: 10px !important;
+    padding: 11px !important
+}
+
+body#homepage form.search .btn_search:hover {
+    background-color:#999 !important
+}
+
+body#homepage .company_info {
+    background-color: #f8f8f8 !important;
+    color: #999 !important
+}
+
+body#homepage .company_info a {
+    color:#999 !important
+}
+
+body#homepage .company_info a:hover {
+    color: #000 !important
+}
+
+body#homepage aside a:hover {
+    color:#000 !important
+}
+
+header nav#right_nav .title {
+    color: #999 !important
+}
+
+header nav#right_nav .title:hover {
+    color:#333 !important
+}
+
+header nav#right_nav #donations a {
+    background-image: url("../../img/desktop/ico_donation.png") !important;
+    display: block !important;
+    background-repeat: no-repeat !important;
+    background-position: 0 7px !important;
+    padding: 0 10px 0 22px !important
+}
+
+header nav#right_nav #donations a:hover {
+    background-image: url("../../img/desktop/ico_donation_hover.png") !important
+}
+
+form.entry-area > .btns {
+    margin:60px 40px !important
+}
+
+form.entry-area .btns button {
+    border-radius: 20px !important;
+    background-color: #fff !important;
+    color: #bbb !important;
+    border: 1px solid #ddd !important;
+    font-size: .9em !important
+}
+
+form.entry-area .btns button:hover {
+    border-color: #aaa !important;
+    color: #999 !important
+}
+
+form.entry-area .btns button.btn_save {
+    border-color: #bbb !important;
+    color: #999 !important;
+    font-size: 1.1em !important
+}
+
+form.entry-area .btns button.btn_save:hover {
+    border-color: #999 !important;
+    color: #333 !important
+}
+
+form.entry-area #dl_movies .btns {
+    right: 25px !important
+}
